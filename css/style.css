@@ -22,6 +22,14 @@ body h1{
     font-family: 'Play', sans-serif;
     color: rgb(24, 44, 157);
 }
+h2{
+  position:absolute;
+  top: 80px;
+  left: 15px;
+  font-family: 'Play', sans-serif;
+  color: rgb(12, 12, 8);
+  font-weight: bolder;
+}
 
 #scoreBox {
   position: absolute;
